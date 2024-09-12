@@ -1,0 +1,2 @@
+#Exclude the contents of the book folder from being uploaped to github
+books/
